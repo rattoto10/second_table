@@ -112,4 +112,4 @@
 {"name":"GENOCIDE 次期十段案","constraint":["grade_mirror"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"red","md5":["f14357d72c2c11081fd45dc00aa4cffa","ce73f117ef9c4a3ff40fb8069e1c3dda","2356c21a671f059293a24d4cf14f0db2","5f6f1c5d3fca5edba8edd537d9927c61"]}
 ]
 ],
-"name":"第2通常難易度","tag":"▽","attr":{"tag":"譜面情報"},"data_url":"http://rattoto10.jounin.jp/js/score.json"}
+"name":"第2通常難易度","tag":"▽","attr":{"tag":"譜面情報"},"data_url":"https://rattoto10.github.io/second_table/score.json"}
